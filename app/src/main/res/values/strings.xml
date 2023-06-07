@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="arrayPaises">
+        <item>China</item>
+        <item>India</item>
+        <item>Estados Unidos</item>
+        <item>Indonesia</item>
+        <item>Pakistan</item>
+        <item>Brasil</item>
+        <item>Nigeria</item>
+        <item>Bangladesh</item>
+        <item>Rusia</item>
+        <item>Mexico</item>
+        <item>Japon</item>
+        <item>Etiopia</item>
+        <item>Egipto</item>
+        <item>Vietnam</item>
+        <item>Alemania</item>
+        <item>Turquia</item>
+        <item>Iran</item>
+        <item>Tailandia</item>
+        <item>Reino Unido</item>
+        <item>Francia</item>
+        <item>Italia</item>
+        <item>Tanzania</item>
+        <item>Sudafrica</item>
+        <item>Myanmar</item>
+        <item>Kenia</item>
+        <item>Corea del Sur</item>
+        <item>Colombia</item>
+        <item>España</item>
+        <item>Argentina</item>
+        <item>Uganda</item>
+        <item>Argelia</item>
+        <item>Sudan</item>
+        <item>Ucrania</item>
+        <item>Irak</item>
+        <item>Afganistan</item>
+        <item>Polonia</item>
+        <item>Canada</item>
+        <item>Marruecos</item>
+        <item>Venezuela</item>
+    </string-array>
+    <string name="strPaises">Paises Disponibles</string>
+    <string name="strSelecciona">Selecciona un pais</string>
+</resources>
